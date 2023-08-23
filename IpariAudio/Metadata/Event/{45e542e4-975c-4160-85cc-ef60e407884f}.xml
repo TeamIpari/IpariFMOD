@@ -120,6 +120,9 @@
 		<property name="length">
 			<value>110.24834467120182</value>
 		</property>
+		<property name="triggerConditionMode">
+			<value>1</value>
+		</property>
 		<relationship name="timeline">
 			<destination>{ddb0394f-d856-4c02-89d7-17636a04eeae}</destination>
 		</relationship>

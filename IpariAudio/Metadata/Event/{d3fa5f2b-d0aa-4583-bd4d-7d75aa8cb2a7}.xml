@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{d3fa5f2b-d0aa-4583-bd4d-7d75aa8cb2a7}">
 		<property name="name">
-			<value>No_14</value>
+			<value>UI_Button</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{3fb3f09e-8377-463e-854b-e39d6d5ab9ab}</destination>
+			<destination>{92067322-2bdd-448d-8db6-2705a45eea83}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{2022772b-08d9-4a9e-92e0-1b0ba64e3ef8}</destination>
@@ -56,7 +56,7 @@
 			<destination>{681b3f90-8084-44cd-93b5-3e5c212c71b4}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{8e798f01-3068-4a45-be98-ea58a350375f}</destination>
+			<destination>{c4e12624-14ca-4ea8-92a5-1d247ac42e76}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{7e1b0510-d49d-4648-a778-f5d208b4136e}" />
