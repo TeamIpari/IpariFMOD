@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{8133f156-735d-4936-b2da-bcb3f160dcc0}">
+		<property name="name">
+			<value>BGMIsLooping</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1f0ca430-d7fa-44f8-bf22-c7ccb0a22f79}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{fa4459c7-50c4-46f2-bf34-8ce31df7f923}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{fa4459c7-50c4-46f2-bf34-8ce31df7f923}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Used</value>
+			<value>UnUsed</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

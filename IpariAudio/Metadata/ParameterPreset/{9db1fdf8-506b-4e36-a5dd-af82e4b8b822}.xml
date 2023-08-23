@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{9db1fdf8-506b-4e36-a5dd-af82e4b8b822}">
+		<property name="name">
+			<value>TreeActionType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1f0ca430-d7fa-44f8-bf22-c7ccb0a22f79}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{0ecf8769-49e6-48b9-b8d8-916b3661a331}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{0ecf8769-49e6-48b9-b8d8-916b3661a331}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>TreeFallDown</value>
+			<value>TreeCrash</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{383c7965-60fe-40c6-b078-b8d7d0451436}">
+		<property name="name">
+			<value>EnterWaterType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1f0ca430-d7fa-44f8-bf22-c7ccb0a22f79}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{b59bbeb4-8640-4d26-adb3-da333e8e2e1f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{b59bbeb4-8640-4d26-adb3-da333e8e2e1f}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Default</value>
+			<value>Stone</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

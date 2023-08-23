@@ -120,11 +120,17 @@
 		<property name="length">
 			<value>109.12217687074831</value>
 		</property>
+		<property name="triggerConditionMode">
+			<value>1</value>
+		</property>
 		<relationship name="timeline">
 			<destination>{906452ce-949f-42e7-8850-9bc0a1ed2bb0}</destination>
 		</relationship>
 		<relationship name="markerTrack">
 			<destination>{0853ddd7-6b0e-4c5c-8468-d8f947839765}</destination>
+		</relationship>
+		<relationship name="triggerConditions">
+			<destination>{b50f8313-0314-4221-b654-9a57adb1fa07}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{a2fbcce6-0c81-44c2-b81d-5fa6dbc6f94a}">
@@ -140,6 +146,17 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{edae43a0-6a87-4321-a53b-7d446e60a3c2}" />
+	<object class="ParameterCondition" id="{b50f8313-0314-4221-b654-9a57adb1fa07}">
+		<property name="minimum">
+			<value>0</value>
+		</property>
+		<property name="maximum">
+			<value>0</value>
+		</property>
+		<relationship name="parameter">
+			<destination>{fa4459c7-50c4-46f2-bf34-8ce31df7f923}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{9347ad12-39ca-4e12-ad55-17f7d3151c42}" />
 	<object class="MixerBusFader" id="{30bc8b35-de2d-4b02-b691-07cf38dd0c20}" />
 </objects>

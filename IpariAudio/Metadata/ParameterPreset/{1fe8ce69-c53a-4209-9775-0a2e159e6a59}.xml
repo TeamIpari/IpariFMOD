@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{1fe8ce69-c53a-4209-9775-0a2e159e6a59}">
+		<property name="name">
+			<value>PlayerHitType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1f0ca430-d7fa-44f8-bf22-c7ccb0a22f79}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3d3a9d5d-b825-4335-ac94-66c163c9188c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3d3a9d5d-b825-4335-ac94-66c163c9188c}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>MiniNepenthes_Attack</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
