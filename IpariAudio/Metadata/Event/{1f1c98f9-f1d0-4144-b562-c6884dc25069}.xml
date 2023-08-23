@@ -96,6 +96,9 @@
 		<property name="start">
 			<value>1</value>
 		</property>
+		<property name="volume">
+			<value>-16</value>
+		</property>
 		<relationship name="sounds">
 			<destination>{7e9e52b5-d377-4081-ada7-1d583356650f}</destination>
 			<destination>{b78f93a2-6180-40a8-8258-a6f7ab1660a3}</destination>
