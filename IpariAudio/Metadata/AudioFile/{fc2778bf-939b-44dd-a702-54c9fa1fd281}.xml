@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fc2778bf-939b-44dd-a702-54c9fa1fd281}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/SciFi/Shock_Rifle/SHOCK_RIFLE_Zap_Tube_Tail_01_mono.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.782312925170068</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

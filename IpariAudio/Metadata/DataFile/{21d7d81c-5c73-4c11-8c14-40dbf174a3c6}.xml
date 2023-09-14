@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{21d7d81c-5c73-4c11-8c14-40dbf174a3c6}">
+		<property name="assetPath">
+			<value>Universal Sound FX/EXPLOSIONS/Long/EXPLOSION_Long_Distant_with_Tail_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

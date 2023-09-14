@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{007a4c81-e9fb-4df0-b024-8b2a843db694}">
+		<property name="assetPath">
+			<value>Universal Sound FX/HUMAN/Footsteps/Trainers_Gravel_Compact_Run/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

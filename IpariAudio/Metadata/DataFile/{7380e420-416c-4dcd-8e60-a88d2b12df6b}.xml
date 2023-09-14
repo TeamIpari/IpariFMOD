@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{7380e420-416c-4dcd-8e60-a88d2b12df6b}">
+		<property name="assetPath">
+			<value>Universal Sound FX/DOORS_GATES_DRAWERS/GATE_Metal_Close_05_Mid_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

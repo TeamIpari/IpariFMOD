@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{ae737215-4230-4898-9a77-0396c162309a}">
+		<property name="assetPath">
+			<value>Universal Sound FX/CHARGE_UPS_DOWNS/CHARGE_Servo_24_Semi_Up_4000ms_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{2069534c-3e44-47a7-a856-bf41c1470ae4}">
+		<property name="assetPath">
+			<value>Universal Sound FX/AMBIENCES/SciFi/AMBIENCE_SciFi_Hum_01_loop_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{53b94c75-f3e4-4d81-b543-3c9cfcc34219}">
+		<property name="assetPath">
+			<value>Universal Sound FX/ELEMENTS/Water/Taps/TAP_Kitchen_Water_Turn_On_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

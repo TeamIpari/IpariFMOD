@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{2e03049f-447d-4604-b16b-801a53048d09}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Words_Phrases/Radio_Male_A/VOICE_RADIO_MALE_Hello_5_Question_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

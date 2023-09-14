@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{08d90cb7-20c4-4717-b846-b4b22637919e}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/Firearms/Handling/HANDLING_9mm_Ammo_Cardboard_Box_Take_Bullet_RR2_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

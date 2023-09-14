@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a31222c5-08fd-4e08-8eba-ddb4b5703230}">
+		<property name="assetPath">
+			<value>Universal Sound FX/HUMAN/Footsteps/Trainers_Gravel_Compact_Run/FOOTSTEPS_Trainers_Gravel_Compact_Run_x8_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

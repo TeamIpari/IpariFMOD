@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{ec419c9e-6637-48ad-93af-faa4b9f91f12}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MUSIC_EFFECTS/MUSIC_EFFECT_Platform_Positive_03b_Slow_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

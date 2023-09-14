@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{e138b4f2-dd5b-42cb-8710-6ce0d93a0429}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Exclamations/EXCLAMATION_Male_B_Whoo_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

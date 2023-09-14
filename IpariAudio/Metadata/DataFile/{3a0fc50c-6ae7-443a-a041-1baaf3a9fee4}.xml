@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{3a0fc50c-6ae7-443a-a041-1baaf3a9fee4}">
+		<property name="assetPath">
+			<value>Universal Sound FX/USER_INTERFACES/Mechanical/UI_Mechanical_09_Dry_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

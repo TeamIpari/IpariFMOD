@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{b371eb3d-b427-4dc9-8758-fecae7e1c397}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Exclamations/EXCLAMATION_Male_B_Yippee_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{b349d56d-f54c-4097-8240-d46f984af471}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MAGIC_SPELLS/MAGIC_SPELL_Energy_Beam_11_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

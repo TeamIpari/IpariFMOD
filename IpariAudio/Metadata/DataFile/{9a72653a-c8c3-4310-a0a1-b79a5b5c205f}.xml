@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{9a72653a-c8c3-4310-a0a1-b79a5b5c205f}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Water/IMPACT_Water_Whoosh_Thump_Splash_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

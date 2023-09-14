@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{0f0b3ee7-fecb-4731-9b69-9096e57893da}">
+		<property name="assetPath">
+			<value>Universal Sound FX/USER_INTERFACES/Medieval/UI_Select_Medieval_Shield_Hit_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

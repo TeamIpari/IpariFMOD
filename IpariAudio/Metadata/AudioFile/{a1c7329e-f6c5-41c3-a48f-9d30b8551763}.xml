@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a1c7329e-f6c5-41c3-a48f-9d30b8551763}">
+		<property name="assetPath">
+			<value>Universal Sound FX/HUMAN/Footsteps/Trainers_Snow_Compact_Walk_Slow/FOOTSTEP_Trainers_Snow_Compact_Walk_Slow_RR8_mono.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.82020408163265301</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

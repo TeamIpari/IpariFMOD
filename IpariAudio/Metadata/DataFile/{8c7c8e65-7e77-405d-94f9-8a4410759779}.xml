@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{8c7c8e65-7e77-405d-94f9-8a4410759779}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Words_Phrases/Male_A/VOICE_MALE_Research_In_Progress_1_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{4029f51e-8b9e-4781-957b-4054990d8d48}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/SciFi/Blasters_Simple/BLASTER_Simple_Model_A_Medium_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

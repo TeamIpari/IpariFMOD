@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{bfe3c2cf-6f1c-4ccd-8a82-644581e89762}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Wood/IMPACT_Wood_Stick_On_Wood_Post_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

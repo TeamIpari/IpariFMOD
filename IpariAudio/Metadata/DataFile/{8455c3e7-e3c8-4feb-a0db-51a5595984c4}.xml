@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{8455c3e7-e3c8-4feb-a0db-51a5595984c4}">
+		<property name="assetPath">
+			<value>Universal Sound FX/TOOLS/Impact_Wrench/TOOL_Impact_Wrench_Comperssed_Air_Segment_03_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

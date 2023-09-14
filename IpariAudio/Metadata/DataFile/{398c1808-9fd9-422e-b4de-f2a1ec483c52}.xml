@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{398c1808-9fd9-422e-b4de-f2a1ec483c52}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/Melee/Swords/SWORD_Whoosh_Hit_Sword_Hard_RR1_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

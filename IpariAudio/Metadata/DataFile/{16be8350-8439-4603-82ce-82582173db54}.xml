@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{16be8350-8439-4603-82ce-82582173db54}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MAGIC_SPELLS/MAGIC_SPELL_Metallic_Rain_Down_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

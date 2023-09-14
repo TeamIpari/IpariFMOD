@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{15e48b89-74bc-4c30-ae20-9dc17ef6a7f3}">
+		<property name="assetPath">
+			<value>Universal Sound FX/8BIT/Explosions/8BIT_RETRO_Explosion_Short_Distorted_Drop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

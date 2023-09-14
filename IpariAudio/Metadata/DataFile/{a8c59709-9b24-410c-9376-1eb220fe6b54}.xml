@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a8c59709-9b24-410c-9376-1eb220fe6b54}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/Firearms/Handling/HANDLING_B_FS92_9mm_Chamber_Round_with_Slider_Release_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

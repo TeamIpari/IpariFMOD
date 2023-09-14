@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{fe4cb093-8255-45ea-b6c4-ce0fb18a90b8}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Stone/IMPACT_Stone_On_Stone_07_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

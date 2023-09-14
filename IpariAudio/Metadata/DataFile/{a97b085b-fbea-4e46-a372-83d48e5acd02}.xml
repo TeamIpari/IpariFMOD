@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a97b085b-fbea-4e46-a372-83d48e5acd02}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/Firearms/Fire_Real_Time_Strategy_RTS/FIREARM_RTS_Machine_Gun_Model_03_Fire_Automatic_880RPM_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

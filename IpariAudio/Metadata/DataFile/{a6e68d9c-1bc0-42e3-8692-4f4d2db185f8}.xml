@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a6e68d9c-1bc0-42e3-8692-4f4d2db185f8}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MAGIC_SPELLS/MAGIC_SPELL_Dark_Pulse_Echo_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

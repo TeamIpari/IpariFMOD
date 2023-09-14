@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{0e2af2da-a37f-481d-a0f7-f91b8e971fb2}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Screams/VOICE_Female_36yo_Scream_13_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

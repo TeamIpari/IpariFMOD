@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{f9a238a6-2d36-4889-b8bc-1c9f9fd037e4}">
+		<property name="assetPath">
+			<value>Universal Sound FX/HUMAN/Footsteps/Trainers_Snow_Compact_Walk_Slow/FOOTSTEPS_Trainers_Snow_Compact_Walk_Slow_x8_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

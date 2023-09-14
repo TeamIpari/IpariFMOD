@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{0b986b6c-5839-4db5-be11-d24bc7ffba40}">
+		<property name="assetPath">
+			<value>Universal Sound FX/AMBIENCES/Crowds/AMBIENCE_Parking_Garage_Car_Boot_Sale_03_loop_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{cfa8877a-ad62-43bf-9260-5fa76f98d016}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MUSIC_EFFECTS/Solo_Clean_Sawtooth/MUSIC_EFFECT_Solo_Clean_Sawtooth_Negative_07_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

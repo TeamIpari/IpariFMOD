@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{7548a687-5c31-48c6-a6ce-782632eb2b58}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MECHANICS/MECHANICS_Metal_Mechanism_04_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

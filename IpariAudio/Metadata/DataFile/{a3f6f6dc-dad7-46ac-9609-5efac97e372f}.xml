@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a3f6f6dc-dad7-46ac-9609-5efac97e372f}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Metal/IMPACT_Metal_Medium_Rattle_Short_Subtle_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

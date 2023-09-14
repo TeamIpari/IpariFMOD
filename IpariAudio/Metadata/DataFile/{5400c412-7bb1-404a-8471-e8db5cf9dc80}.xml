@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{5400c412-7bb1-404a-8471-e8db5cf9dc80}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/Melee/Swords/SWORD_Blade_Slide_04_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

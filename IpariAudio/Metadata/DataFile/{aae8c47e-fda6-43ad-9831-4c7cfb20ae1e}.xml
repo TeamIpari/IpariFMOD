@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{aae8c47e-fda6-43ad-9831-4c7cfb20ae1e}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MACHINES/Industrial/MACHINE_Industrial_Fan_Run_Medium_loop_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

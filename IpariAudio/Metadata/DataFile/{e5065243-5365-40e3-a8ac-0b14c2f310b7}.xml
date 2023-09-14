@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{e5065243-5365-40e3-a8ac-0b14c2f310b7}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WHOOSHES/Martial_Arts/MARTIAL_ARTS_Kick_Punch_RR11_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

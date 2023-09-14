@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{5bec1380-a0b8-4a78-a33e-6e9a26649bbf}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MAGIC_SPELLS/MAGIC_SPELL_Flyby_Whoosh_Airy_Pad_Subtle_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

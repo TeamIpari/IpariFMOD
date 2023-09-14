@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f7303315-ba8f-4d80-b6db-9b96a688af28}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/Firearms/Fire_First_Person_Shooter_FPS/FIREARM_Shotgun_Model_04_Fire_Single_RR1_stereo.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.99183673469387756</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

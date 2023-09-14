@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{d8342d43-be34-4fb9-9264-6c70e2c5ec45}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FRICTION/Stone/FRICTION_Loop_Stone_Slide_01_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{c8c1dc76-1365-4de2-b76e-e1d8f4da2fcc}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MUSIC_EFFECTS/Solo_Warm_Synth/MUSIC_EFFECT_Solo_Warm_Synth_Negative_04_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

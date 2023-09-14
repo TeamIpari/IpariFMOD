@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{ac75a56d-98eb-479d-9a50-3f5660b6404a}">
+		<property name="assetPath">
+			<value>Universal Sound FX/THUNDER/THUNDER_Clap_Rumble_05_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

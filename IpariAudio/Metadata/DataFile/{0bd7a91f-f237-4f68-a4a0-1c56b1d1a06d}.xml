@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{0bd7a91f-f237-4f68-a4a0-1c56b1d1a06d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FIREWORKS/FIREWORKS_Rocket_04_Explode_Mixed_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

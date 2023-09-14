@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{2a93ae1c-948b-4e7b-8bc0-278d76087097}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MONSTERS_CREATURES/MONSTER_Growl_Medium_14_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

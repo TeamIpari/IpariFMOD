@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{c50a92e7-8c7b-4769-b2e2-9ed8a60a61de}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/Firearms/Fire_First_Person_Shooter_FPS/FIREARM_Sub_Machine_Gun_Model_01b_Fire_Single_RR1_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{666414f1-79e7-4d37-89ee-e69807f64e7a}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MUSIC_EFFECTS/Solo_Orchestral_Brass/MUSIC_EFFECT_Orchestral_Brass_Negative_05_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

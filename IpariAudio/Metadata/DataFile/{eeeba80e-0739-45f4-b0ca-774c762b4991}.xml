@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{eeeba80e-0739-45f4-b0ca-774c762b4991}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/SciFi/Shock_Rifle/SHOCK_RIFLE_Deep_Short_Wobble_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

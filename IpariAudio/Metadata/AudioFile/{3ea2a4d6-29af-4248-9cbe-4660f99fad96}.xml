@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3ea2a4d6-29af-4248-9cbe-4660f99fad96}">
+		<property name="assetPath">
+			<value>Universal Sound FX/TOOLS/Impact_Wrench/TOOL_Impact_Wrench_Comperssed_Air_Medium_Burst_No_Resistance_01_stereo.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.6936961451247163</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

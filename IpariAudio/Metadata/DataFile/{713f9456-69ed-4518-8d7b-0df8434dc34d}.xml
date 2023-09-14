@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{713f9456-69ed-4518-8d7b-0df8434dc34d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/USER_INTERFACES/Clicks_Taps/UI_Click_Smooth_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

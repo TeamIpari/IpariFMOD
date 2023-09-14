@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{dca607c1-f55b-4a82-9782-759978ad071d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/DOORS_GATES_DRAWERS/DOOR_Sci-Fi_Metal_Slam_Lock_Reverb_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

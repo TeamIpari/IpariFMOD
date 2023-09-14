@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{124ac146-0f26-4a5a-8388-20e12f34f252}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/Melee/Swords/SWORD_Hit_Metal_Armor_RR1_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

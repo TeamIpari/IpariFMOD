@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{5974d6ba-4347-4bd5-92db-d30bb715d525}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/Melee/Blunt/BLUNT_Swing_Hit_Wood_03_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

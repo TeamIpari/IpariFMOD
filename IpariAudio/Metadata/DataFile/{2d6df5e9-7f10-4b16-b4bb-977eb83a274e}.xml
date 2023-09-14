@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{2d6df5e9-7f10-4b16-b4bb-977eb83a274e}">
+		<property name="assetPath">
+			<value>Universal Sound FX/8BIT/Weapons/8BIT_RETRO_Fire_Blaster_Short_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

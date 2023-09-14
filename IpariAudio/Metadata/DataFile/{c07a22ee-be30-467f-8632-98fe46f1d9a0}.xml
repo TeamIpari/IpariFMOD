@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{c07a22ee-be30-467f-8632-98fe46f1d9a0}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/Bow_Arrow/ARROW_Wobble_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

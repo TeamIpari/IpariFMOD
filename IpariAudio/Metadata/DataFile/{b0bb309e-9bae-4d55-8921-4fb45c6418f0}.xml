@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{b0bb309e-9bae-4d55-8921-4fb45c6418f0}">
+		<property name="assetPath">
+			<value>Universal Sound FX/ANIMALS/ANIMAL_Tiger_Growl_03_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{e1ef4c33-5857-4d4c-8132-67c0a3ffe491}">
+		<property name="assetPath">
+			<value>Universal Sound FX/CONSTRUCTION/CONSTRUCTION_Rocks_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{f6fe2253-3228-48be-9e1c-4a3e3c523a64}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/COFFEE/COFFEE_Stir_Spoon_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

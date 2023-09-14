@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{e3f0f496-3488-49cc-93e3-0e3eef2c40ce}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/Firearms/Handling/HANDLING_Switch_05_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{623aad00-85b5-4978-89b4-8e973e6f6150}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Words_Phrases/Radio_Male_A/VOICE_RADIO_MALE_Howdy_1_Aggressive_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

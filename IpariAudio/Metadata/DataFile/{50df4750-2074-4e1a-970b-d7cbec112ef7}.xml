@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{50df4750-2074-4e1a-970b-d7cbec112ef7}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/BALLOONS/BALLOON_Release_Air_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

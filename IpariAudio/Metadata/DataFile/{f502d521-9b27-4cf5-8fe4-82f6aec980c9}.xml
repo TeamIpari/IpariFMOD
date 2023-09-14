@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{f502d521-9b27-4cf5-8fe4-82f6aec980c9}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FIREWORKS/FIREWORKS_Airbomb_02_Explode_Crackle_Mixed_Alt_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{0532d96e-1316-4d46-9a1f-44d10da3491e}">
+		<property name="assetPath">
+			<value>Universal Sound FX/AMBIENCES/Villages/AMBIENCES_Medieval_Village_short_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

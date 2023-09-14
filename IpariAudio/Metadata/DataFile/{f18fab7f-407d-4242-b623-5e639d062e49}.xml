@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{f18fab7f-407d-4242-b623-5e639d062e49}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/CARDBOARD/CARDBOARD_Drop_Pieces_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

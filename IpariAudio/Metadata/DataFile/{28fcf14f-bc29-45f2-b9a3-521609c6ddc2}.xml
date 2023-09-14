@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{28fcf14f-bc29-45f2-b9a3-521609c6ddc2}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Incoming/IMPACT_Incoming_Reverse_Crackle_Bang_02_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

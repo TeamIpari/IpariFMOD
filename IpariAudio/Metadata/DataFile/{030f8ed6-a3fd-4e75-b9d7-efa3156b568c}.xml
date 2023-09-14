@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{030f8ed6-a3fd-4e75-b9d7-efa3156b568c}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/PEN_PAPER/PEN_Ball_Point_Pen_Line_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

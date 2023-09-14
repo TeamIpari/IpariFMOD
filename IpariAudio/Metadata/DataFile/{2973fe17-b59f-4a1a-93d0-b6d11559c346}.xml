@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{2973fe17-b59f-4a1a-93d0-b6d11559c346}">
+		<property name="assetPath">
+			<value>Universal Sound FX/ELECTRICITY/ELECTRICITY_Sparks_02_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

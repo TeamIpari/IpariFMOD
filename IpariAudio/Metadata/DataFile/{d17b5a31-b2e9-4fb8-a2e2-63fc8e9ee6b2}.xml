@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{d17b5a31-b2e9-4fb8-a2e2-63fc8e9ee6b2}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/CLEAN/CLEAN_Brush_Asphalt_RR1_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

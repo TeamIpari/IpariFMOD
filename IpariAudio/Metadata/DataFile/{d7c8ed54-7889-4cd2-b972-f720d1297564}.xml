@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{d7c8ed54-7889-4cd2-b972-f720d1297564}">
+		<property name="assetPath">
+			<value>Universal Sound FX/LOCKS_KEYS/LOCK_Key_In_Wood_Door_Lock_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

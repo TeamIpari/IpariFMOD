@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{e8a163b2-6e40-479b-9293-22eaa7bc0cf5}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Grunts_Groans_Hurt/GRUNT_Male_B_Hurt_Short_06_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{3067e6c1-86bf-4dbd-b15f-146dff2d5113}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Words_Phrases/Male_A/VOICE_MALE_You_Lose_2_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

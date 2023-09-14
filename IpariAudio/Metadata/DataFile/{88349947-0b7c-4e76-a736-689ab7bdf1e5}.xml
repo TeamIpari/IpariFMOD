@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{88349947-0b7c-4e76-a736-689ab7bdf1e5}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Grunts_Groans_Hurt/VOICE_Girl_4yo_Hurt_Long_02_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

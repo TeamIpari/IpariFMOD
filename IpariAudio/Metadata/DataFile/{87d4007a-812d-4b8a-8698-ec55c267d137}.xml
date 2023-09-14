@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{87d4007a-812d-4b8a-8698-ec55c267d137}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Words_Phrases/Female/VOICE_FEMALE_7_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{e1333d01-3f5a-4798-b4d8-cebb4f687184}">
+		<property name="assetPath">
+			<value>Universal Sound FX/ANIMALS/INSECT_Beehive_Swarm_3sec_loop_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{f3b07ce9-b361-4447-a471-3af42a9c5f45}">
+		<property name="assetPath">
+			<value>Universal Sound FX/BREAKS_SNAPS/BREAK_Crunch_04_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

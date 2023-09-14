@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{c8f16c27-dd5e-4944-885c-f4ee109eb939}">
+		<property name="assetPath">
+			<value>Universal Sound FX/EXPLOSIONS/Medium/EXPLOSION_Medium_Deep_Quick_Long_Reverb_Tail_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

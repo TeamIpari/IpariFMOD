@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{5838a4b6-cd2f-4a88-bde0-63137bf21341}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Metal/IMPACT_Metal_Hard_02_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

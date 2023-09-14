@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a836d0e0-2501-4bc4-be42-1993c5cd40f1}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/GAFFER_TAPE/FOLEY_Gaffer_Tape_Long_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

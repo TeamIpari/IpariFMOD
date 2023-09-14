@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a1ee3260-f607-4708-a628-a47c42587599}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FRICTION/Metal/FRICTION_Metal_Bars_03_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

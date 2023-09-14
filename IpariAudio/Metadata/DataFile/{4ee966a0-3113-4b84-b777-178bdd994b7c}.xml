@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{4ee966a0-3113-4b84-b777-178bdd994b7c}">
+		<property name="assetPath">
+			<value>Universal Sound FX/EXPLOSIONS/Medium/EXPLOSION_Medium_Smooth_with_Faint_Echo_Rumble_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

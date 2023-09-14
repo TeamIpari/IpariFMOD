@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{50b39aab-af1f-4d81-b4d7-b46f662b2e3c}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WHOOSHES/Mixed/WHOOSH_Breath_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

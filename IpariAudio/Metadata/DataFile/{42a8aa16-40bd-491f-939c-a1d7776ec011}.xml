@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{42a8aa16-40bd-491f-939c-a1d7776ec011}">
+		<property name="assetPath">
+			<value>Universal Sound FX/PUZZLES/PUZZLE_Success_Xylophone_2_Three_Note_Delay_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

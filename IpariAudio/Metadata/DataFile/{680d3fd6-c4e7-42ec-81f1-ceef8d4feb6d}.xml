@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{680d3fd6-c4e7-42ec-81f1-ceef8d4feb6d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MACHINES/Construction/MACHINE_Construction_Stone_Crusher_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{4aede9ca-4f75-444d-a2c0-ff8757319c04}">
+		<property name="assetPath">
+			<value>Universal Sound FX/SCRAPES_SCRATCHES/SCRAPE_Concrete_Slab_on_Concrete_Slab_Medium_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{542e84c5-9361-4ee8-a48d-783be029515e}">
+		<property name="assetPath">
+			<value>Universal Sound FX/USER_INTERFACES/Errors/UI_Error_Double_Note_Down_Notch_Hollow_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

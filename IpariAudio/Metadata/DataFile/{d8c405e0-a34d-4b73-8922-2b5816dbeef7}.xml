@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{d8c405e0-a34d-4b73-8922-2b5816dbeef7}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/Firearms/Casings/CASING_22_Hard_Surface_RR1_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

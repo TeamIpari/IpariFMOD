@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{9fb7fbbe-6064-4ac4-a347-2cfad96025e6}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MACHINES/Household_Appliances/APPLIANCE_Hover_Vacuum_Cleaner_01_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{f986c213-c34c-4fc8-b5fd-ae33e14a1229}">
+		<property name="assetPath">
+			<value>Universal Sound FX/SCRAPES_SCRATCHES/SCRAPE_Metal_on_Metal_Cling_Short_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

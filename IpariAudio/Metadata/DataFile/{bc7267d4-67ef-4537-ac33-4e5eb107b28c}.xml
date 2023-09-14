@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{bc7267d4-67ef-4537-ac33-4e5eb107b28c}">
+		<property name="assetPath">
+			<value>Universal Sound FX/AMBIENCES/Nature/AMBIENCE_Under_Water_Deep_Dark_loop_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

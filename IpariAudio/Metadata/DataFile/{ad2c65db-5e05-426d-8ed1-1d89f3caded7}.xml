@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{ad2c65db-5e05-426d-8ed1-1d89f3caded7}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FRICTION/Plastic_Box/FRICTION_Plastic_Box_Gravel_Floor_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

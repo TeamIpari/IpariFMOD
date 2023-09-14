@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{25c3cdbc-4fbd-4a4a-8e9b-4c4cd6c3657c}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MACHINES/Garden/STRIMMER_Cut_Sequence_3sec_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

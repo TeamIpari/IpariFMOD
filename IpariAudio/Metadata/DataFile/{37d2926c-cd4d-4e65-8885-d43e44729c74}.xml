@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{37d2926c-cd4d-4e65-8885-d43e44729c74}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Laugh/VOICE_Male_Haha_Subtle_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

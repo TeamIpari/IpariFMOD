@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{d0c6c0d1-ef56-4036-bd78-55e65d12dd42}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Baby/VOICE_Girl_2yo_Giggle_04_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

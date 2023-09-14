@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{c6bf877d-7f67-4ced-8d85-3b438fb14a6f}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Words_Phrases/Radio_Male_A/VOICE_RADIO_MALE_Yes_2_Aggressive_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

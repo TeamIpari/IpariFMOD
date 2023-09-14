@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{ccd5ef52-cf49-4a80-bd5c-b3128c0de843}">
+		<property name="assetPath">
+			<value>Universal Sound FX/THUNDER/THUNDER_Rumble_04_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

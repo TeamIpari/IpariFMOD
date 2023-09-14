@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a42f9bb3-ae90-4b02-9657-b6b5dbab64d2}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Wood/IMPACT_Wood_Plank_On_Wood_Pile_08_Short_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

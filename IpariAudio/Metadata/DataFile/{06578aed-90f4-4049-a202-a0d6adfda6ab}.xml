@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{06578aed-90f4-4049-a202-a0d6adfda6ab}">
+		<property name="assetPath">
+			<value>Universal Sound FX/USER_INTERFACES/Sci-Fi/UI_SCI-FI_Tone_Bright_Dry_01_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

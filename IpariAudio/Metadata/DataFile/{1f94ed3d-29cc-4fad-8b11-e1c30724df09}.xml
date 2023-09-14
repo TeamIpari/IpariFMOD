@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{1f94ed3d-29cc-4fad-8b11-e1c30724df09}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/VARIOUS/FOLEY_Metal_Fence_Shake_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

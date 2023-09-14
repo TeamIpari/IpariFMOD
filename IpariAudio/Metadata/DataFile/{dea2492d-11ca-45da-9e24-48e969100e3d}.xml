@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{dea2492d-11ca-45da-9e24-48e969100e3d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Shoot_Em_Up/Short.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

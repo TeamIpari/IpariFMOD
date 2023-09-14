@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{21cef4b6-3ad6-403f-9be3-ed99a8c47667}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/SciFi/Energy_Beams/WEAPON_Energy_Beam_05_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

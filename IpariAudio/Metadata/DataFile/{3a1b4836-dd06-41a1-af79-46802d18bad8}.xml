@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{3a1b4836-dd06-41a1-af79-46802d18bad8}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Screams/SCREAM_Male_B_07_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

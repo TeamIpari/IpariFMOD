@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{b9cc34a7-675c-45b3-9c5e-c7146c6ced39}">
+		<property name="assetPath">
+			<value>Universal Sound FX/PUZZLES/PUZZLE_Success_Piano_Three_Note_Fast_Dry_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{95b3db86-aed7-4492-be3c-606374b2f4b1}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Snappy/IMPACT_Snappy_02_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{f9d4a09a-837d-4bb9-87c7-3fecb13d3000}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WHOOSHES/Air/WHOOSH_Air_Very_Slow_RR5_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

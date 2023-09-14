@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{392e94c5-9e0c-43b8-8436-eee17b99a621}">
+		<property name="assetPath">
+			<value>Universal Sound FX/HUMAN/Footsteps/Leather_Wood_Hollow_Sneak/FOOTSTEP_Leather_Wood_Hollow_Sneak_RR3_mono.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.1970748299319729</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

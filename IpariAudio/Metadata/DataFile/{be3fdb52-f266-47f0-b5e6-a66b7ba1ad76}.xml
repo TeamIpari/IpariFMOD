@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{be3fdb52-f266-47f0-b5e6-a66b7ba1ad76}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Energy/IMPACT_Energy_Solid_18_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

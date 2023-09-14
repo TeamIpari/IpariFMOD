@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{4436ebfb-f064-4917-9077-4889aa6064e6}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Generic/IMPACT_Generic_15_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

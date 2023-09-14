@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{0eef1d23-6f2c-426a-a81a-498a2c09c44a}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Metal/IMPACT_Metal_Pipe_Drop_Hard_Surface_RR1_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{8f74d2fd-2401-4a0c-8731-316f4ff1fb65}">
+		<property name="assetPath">
+			<value>Universal Sound FX/LOCKS_KEYS/KEY_Unlocking_Metal_Door_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

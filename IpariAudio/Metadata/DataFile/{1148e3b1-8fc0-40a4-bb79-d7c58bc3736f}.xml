@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{1148e3b1-8fc0-40a4-bb79-d7c58bc3736f}">
+		<property name="assetPath">
+			<value>Universal Sound FX/BUTTONS/BUTTON_Click_Fan_Plastic_Metallic_Turn_01_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{3da48014-6af8-460b-ac5c-8822f97e5b5a}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MONSTERS_CREATURES/MONSTER_Effort_01_Crop_04_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

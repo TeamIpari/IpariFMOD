@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{e3e9cbf4-f0e8-427c-a751-c5134e8ae16f}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MACHINES/Construction/MACHINE_Digger_Lorry_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

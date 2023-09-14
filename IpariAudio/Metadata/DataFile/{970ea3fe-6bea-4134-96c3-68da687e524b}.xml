@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{970ea3fe-6bea-4134-96c3-68da687e524b}">
+		<property name="assetPath">
+			<value>Universal Sound FX/BREAKS_SNAPS/BREAK_Snap_Crack_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

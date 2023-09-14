@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{2d87b060-e9c3-41e0-bd52-36f8ea8c8111}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MONSTERS_CREATURES/ALIEN_Communication_25_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

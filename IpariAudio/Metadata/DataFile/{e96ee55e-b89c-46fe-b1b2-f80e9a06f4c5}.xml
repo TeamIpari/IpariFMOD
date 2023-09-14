@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{e96ee55e-b89c-46fe-b1b2-f80e9a06f4c5}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MONSTERS_CREATURES/MONSTER_Breath_03_Slow_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

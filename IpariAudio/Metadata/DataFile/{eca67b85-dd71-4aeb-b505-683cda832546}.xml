@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{eca67b85-dd71-4aeb-b505-683cda832546}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MACHINES/Industrial/MACHINE_Air_Compressor_100L_5_5HP_Stop_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

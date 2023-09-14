@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a7396f9c-1f57-4b60-ba42-459d7e93c639}">
+		<property name="assetPath">
+			<value>Universal Sound FX/ELEMENTS/Water/Splashes/SPLASH_Water_Pool_Jump_02_RR10_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

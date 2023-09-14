@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{73e6424d-af2a-4b0f-bf99-5086b5977f9d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/HUMAN/Footsteps/Generic_Metal_Hollow_Run/FOOTSTEP_Generic_Metal_Hollow_Run_RR5_mono.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.40126984126984128</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

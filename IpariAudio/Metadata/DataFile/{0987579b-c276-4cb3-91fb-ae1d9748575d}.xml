@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{0987579b-c276-4cb3-91fb-ae1d9748575d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WHOOSHES/Classic/WHOOSH_Deep_Smooth_02_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

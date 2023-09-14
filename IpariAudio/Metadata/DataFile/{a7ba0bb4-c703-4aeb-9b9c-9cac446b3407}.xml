@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a7ba0bb4-c703-4aeb-9b9c-9cac446b3407}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WHOOSHES/Mixed/WHOOSH_Plain_Short_RR4_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

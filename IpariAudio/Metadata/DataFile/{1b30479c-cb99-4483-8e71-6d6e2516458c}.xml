@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{1b30479c-cb99-4483-8e71-6d6e2516458c}">
+		<property name="assetPath">
+			<value>Universal Sound FX/DIGITAL/Computers_Digital/COMPUTER_Sci-Fi_Processing_01_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

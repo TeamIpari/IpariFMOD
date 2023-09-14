@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{1d67ea5f-34c2-458d-a4d4-f3e0a6919d78}">
+		<property name="assetPath">
+			<value>Universal Sound FX/ANIMALS/INSECT_Crickets_Segment_02_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

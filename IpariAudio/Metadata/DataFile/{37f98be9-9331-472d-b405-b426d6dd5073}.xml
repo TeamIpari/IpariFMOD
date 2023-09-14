@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{37f98be9-9331-472d-b405-b426d6dd5073}">
+		<property name="assetPath">
+			<value>Universal Sound FX/HUMAN/Footsteps/Generic_Metal_Hollow_Run/FOOTSTEP_Generic_Metal_Hollow_Run_RR8_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

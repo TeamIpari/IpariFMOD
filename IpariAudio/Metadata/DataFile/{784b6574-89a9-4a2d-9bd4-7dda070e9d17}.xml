@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{784b6574-89a9-4a2d-9bd4-7dda070e9d17}">
+		<property name="assetPath">
+			<value>Universal Sound FX/DEVICES/Camera/CAMERA_DSLR_Handle_01_Crop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

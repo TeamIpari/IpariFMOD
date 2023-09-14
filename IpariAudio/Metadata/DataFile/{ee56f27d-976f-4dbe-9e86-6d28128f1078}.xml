@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{ee56f27d-976f-4dbe-9e86-6d28128f1078}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MONSTERS_CREATURES/MONSTER_Exhausted_06_Crop_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

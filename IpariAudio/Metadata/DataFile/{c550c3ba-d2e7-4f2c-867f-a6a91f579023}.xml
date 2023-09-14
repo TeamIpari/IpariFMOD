@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{c550c3ba-d2e7-4f2c-867f-a6a91f579023}">
+		<property name="assetPath">
+			<value>Universal Sound FX/USER_INTERFACES/Appear_Disappear/UI_Animate_Zap_Swoosh_Disappear_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

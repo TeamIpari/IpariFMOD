@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{e3069bfd-4ed2-4564-a1dd-cf4739080a76}">
+		<property name="assetPath">
+			<value>Universal Sound FX/EXPLOSIONS/Arcade/EXPLOSION_Arcade_08_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

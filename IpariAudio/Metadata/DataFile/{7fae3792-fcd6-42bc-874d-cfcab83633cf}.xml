@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{7fae3792-fcd6-42bc-874d-cfcab83633cf}">
+		<property name="assetPath">
+			<value>Universal Sound FX/LOCKS_KEYS/LOCK_Metal_Sliding_06_Mid_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

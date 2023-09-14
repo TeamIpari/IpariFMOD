@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{aafc60f4-daa4-490e-9561-f7c2d6f9ff51}">
+		<property name="assetPath">
+			<value>Universal Sound FX/PUZZLES/PUZZLE_Success_Xylophone_2_Stab_Wet_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{4da143ff-020f-4d0d-88e6-65e538cc432a}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WEAPONS/Firearms/Reloading/RELOAD_Mechanical_10_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

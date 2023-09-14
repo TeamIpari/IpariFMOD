@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{10232cc0-f0a4-497b-a435-7d40bc6fea57}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Martial_Arts_Male/VOICE_Martial_Art_Shout_11_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

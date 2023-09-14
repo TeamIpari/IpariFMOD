@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{888e7a04-2b5b-4e50-a2c8-0e768228f88e}">
+		<property name="assetPath">
+			<value>Universal Sound FX/#Game Genre References/Real Time Stategy (RTS) Medieval.txt</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{b702458a-27f1-45dd-bf2e-518a6f85feb0}">
+		<property name="assetPath">
+			<value>Universal Sound FX/HUMAN/Footsteps/Leather_Wood_Hollow_Walk.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

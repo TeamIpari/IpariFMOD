@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{6374832c-547b-4931-a1e5-4a20a7b349b5}">
+		<property name="assetPath">
+			<value>Universal Sound FX/EXPLOSIONS/Medium/EXPLOSION_Medium_Blast_Scatter_Debris_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

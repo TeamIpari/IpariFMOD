@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{131e3eb7-f72d-4ac1-baca-bb9e8a13e293}">
+		<property name="assetPath">
+			<value>Universal Sound FX/USER_INTERFACES/Errors/UI_Error_Tone_09_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

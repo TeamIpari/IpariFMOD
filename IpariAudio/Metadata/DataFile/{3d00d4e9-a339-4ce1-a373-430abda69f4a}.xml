@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{3d00d4e9-a339-4ce1-a373-430abda69f4a}">
+		<property name="assetPath">
+			<value>Universal Sound FX/ELEMENTS/Water/Rain/RAIN_Summer_Heavy_loop_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

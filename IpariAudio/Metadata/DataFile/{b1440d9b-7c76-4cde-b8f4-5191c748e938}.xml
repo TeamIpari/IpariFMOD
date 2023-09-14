@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{b1440d9b-7c76-4cde-b8f4-5191c748e938}">
+		<property name="assetPath">
+			<value>Universal Sound FX/THUDS_THUMPS/THUD_Bright_04_Movement_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

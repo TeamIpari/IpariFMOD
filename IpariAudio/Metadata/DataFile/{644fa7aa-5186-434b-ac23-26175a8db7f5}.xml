@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{644fa7aa-5186-434b-ac23-26175a8db7f5}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FRICTION/Stone/FRICTION_Stone_Slide_Rumble_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

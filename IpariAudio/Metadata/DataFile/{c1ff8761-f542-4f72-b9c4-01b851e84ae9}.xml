@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{c1ff8761-f542-4f72-b9c4-01b851e84ae9}">
+		<property name="assetPath">
+			<value>Universal Sound FX/EXPLOSIONS/Subtle/EXPLOSION_Subtle_Noise_with_Slight_Kickback_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

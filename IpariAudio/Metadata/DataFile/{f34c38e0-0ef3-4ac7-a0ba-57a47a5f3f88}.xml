@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{f34c38e0-0ef3-4ac7-a0ba-57a47a5f3f88}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Concrete/IMPACT_Concrete_Slab_on_Concrete_Slab_Deep_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

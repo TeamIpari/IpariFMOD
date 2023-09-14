@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{e977757e-2ac7-4189-b0ed-2ab7ed4238ef}">
+		<property name="assetPath">
+			<value>Universal Sound FX/ELEMENTS/Earth/EARTH_Rocks_Pebbles_Fall_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

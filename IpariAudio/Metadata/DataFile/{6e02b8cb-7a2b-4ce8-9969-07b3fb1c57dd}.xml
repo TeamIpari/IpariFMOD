@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{6e02b8cb-7a2b-4ce8-9969-07b3fb1c57dd}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Words_Phrases/Kids/VOICE_Girl_4yo_Game_Over_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

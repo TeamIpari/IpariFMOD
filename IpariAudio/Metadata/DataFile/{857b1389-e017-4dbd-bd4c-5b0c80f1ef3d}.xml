@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{857b1389-e017-4dbd-bd4c-5b0c80f1ef3d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MACHINES/Household_Appliances/APPLIANCE_Fan_Stove_Max_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

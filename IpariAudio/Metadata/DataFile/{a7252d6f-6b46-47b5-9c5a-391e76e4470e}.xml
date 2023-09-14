@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a7252d6f-6b46-47b5-9c5a-391e76e4470e}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/BOOKS/BOOK_Turn_Page_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

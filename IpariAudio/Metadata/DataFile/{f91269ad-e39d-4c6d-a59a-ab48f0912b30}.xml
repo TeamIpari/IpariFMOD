@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{f91269ad-e39d-4c6d-a59a-ab48f0912b30}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/CLEAN/CLEAN_Loop_Scrub_01_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

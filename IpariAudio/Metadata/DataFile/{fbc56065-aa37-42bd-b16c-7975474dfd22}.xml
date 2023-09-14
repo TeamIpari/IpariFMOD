@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{fbc56065-aa37-42bd-b16c-7975474dfd22}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/STORAGE_CASE/STORAGE_CASE_Open_Latch_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

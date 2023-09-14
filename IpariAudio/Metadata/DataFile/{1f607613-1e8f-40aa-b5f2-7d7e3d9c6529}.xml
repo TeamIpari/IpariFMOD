@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{1f607613-1e8f-40aa-b5f2-7d7e3d9c6529}">
+		<property name="assetPath">
+			<value>Universal Sound FX/EXPLOSIONS/Short/EXPLOSION_Short_Smooth_Clean_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

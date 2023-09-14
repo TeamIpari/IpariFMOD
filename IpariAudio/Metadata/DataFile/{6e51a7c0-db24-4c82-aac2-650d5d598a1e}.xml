@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{6e51a7c0-db24-4c82-aac2-650d5d598a1e}">
+		<property name="assetPath">
+			<value>Universal Sound FX/CONSTRUCTION/CONSTRUCTION_Digger_Loading_01_loop_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

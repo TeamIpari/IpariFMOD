@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{e01985d7-4a21-499b-b2a1-e6685566e812}">
+		<property name="assetPath">
+			<value>Universal Sound FX/BUTTONS/BUTTON_Click_Electric_Sander_Faded_01_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

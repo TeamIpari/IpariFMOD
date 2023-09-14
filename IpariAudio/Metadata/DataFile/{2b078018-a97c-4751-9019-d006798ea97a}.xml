@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{2b078018-a97c-4751-9019-d006798ea97a}">
+		<property name="assetPath">
+			<value>Universal Sound FX/DEVICES/Camera/CAMERA_DSLR_AutoFocus_Motor_03_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

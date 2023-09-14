@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{61870cec-6dcf-4fdb-926b-e67a67eb3d3f}">
+		<property name="assetPath">
+			<value>Universal Sound FX/ELEMENTS/Water/Splashes/SPLASH_Designed_Medium_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

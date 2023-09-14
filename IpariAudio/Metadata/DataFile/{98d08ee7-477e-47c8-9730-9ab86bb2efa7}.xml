@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{98d08ee7-477e-47c8-9730-9ab86bb2efa7}">
+		<property name="assetPath">
+			<value>Universal Sound FX/TOOLS/Spade/SPADE_Dig_07_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

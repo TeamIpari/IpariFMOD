@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{964f5c1c-9a32-4245-b215-f40cd09d18f1}">
+		<property name="assetPath">
+			<value>Universal Sound FX/TOYS/TOY_Hand_Horn_Triple_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

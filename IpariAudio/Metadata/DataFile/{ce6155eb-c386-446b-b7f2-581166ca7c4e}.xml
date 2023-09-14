@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{ce6155eb-c386-446b-b7f2-581166ca7c4e}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Exclamations/EXCLAMATION_Male_B_Horray_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

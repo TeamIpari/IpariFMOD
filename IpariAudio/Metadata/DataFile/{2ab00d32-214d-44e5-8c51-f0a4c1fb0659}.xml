@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{2ab00d32-214d-44e5-8c51-f0a4c1fb0659}">
+		<property name="assetPath">
+			<value>Universal Sound FX/NOTIFICATIONS/NOTIFICATION_Metal_05_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

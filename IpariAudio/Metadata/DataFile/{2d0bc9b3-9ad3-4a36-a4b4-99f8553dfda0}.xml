@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{2d0bc9b3-9ad3-4a36-a4b4-99f8553dfda0}">
+		<property name="assetPath">
+			<value>Universal Sound FX/ANIMALS/ANIMAL_Duck_03_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

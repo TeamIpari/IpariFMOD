@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{80d6bb15-71ef-46fb-a92b-8de7b94da0a2}">
+		<property name="assetPath">
+			<value>Universal Sound FX/NOTIFICATIONS/NOTIFICATION_Glass_12_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

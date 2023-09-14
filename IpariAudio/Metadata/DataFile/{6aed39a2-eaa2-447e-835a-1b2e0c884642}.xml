@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{6aed39a2-eaa2-447e-835a-1b2e0c884642}">
+		<property name="assetPath">
+			<value>Universal Sound FX/IMPACTS/Bullets/IMPACT_Bullet_Water_Splash_05_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a84c8700-f211-436a-8a5f-66eba47f365d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Exclamations/EXCLAMATION_Girl_A_Oh_My_God_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

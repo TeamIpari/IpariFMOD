@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{908f5148-4a3f-4f3e-99da-df6be4c3eb54}">
+		<property name="assetPath">
+			<value>Universal Sound FX/EXPLOSIONS/Distorted/EXPLOSION_Distorted_03_Medium_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

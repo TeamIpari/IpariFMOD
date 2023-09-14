@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{20260766-a8e3-4083-844d-3db068bbd012}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WHOOSHES/Classic/WHOOSH_Wide_Fast_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

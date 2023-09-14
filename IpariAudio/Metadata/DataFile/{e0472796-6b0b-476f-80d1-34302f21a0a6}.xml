@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{e0472796-6b0b-476f-80d1-34302f21a0a6}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/BEER_CAN/BEERCAN_Open_02_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

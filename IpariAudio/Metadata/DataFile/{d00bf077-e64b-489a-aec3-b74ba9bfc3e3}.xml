@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{d00bf077-e64b-489a-aec3-b74ba9bfc3e3}">
+		<property name="assetPath">
+			<value>Universal Sound FX/ALARMS/Foghorn/ALARM_Foghorn_full_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

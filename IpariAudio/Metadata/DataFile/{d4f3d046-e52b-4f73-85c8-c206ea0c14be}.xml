@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{d4f3d046-e52b-4f73-85c8-c206ea0c14be}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/COFFEE/COFFEE_Pour_Cup_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

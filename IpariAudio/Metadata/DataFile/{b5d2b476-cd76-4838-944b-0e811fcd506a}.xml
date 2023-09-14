@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{b5d2b476-cd76-4838-944b-0e811fcd506a}">
+		<property name="assetPath">
+			<value>Universal Sound FX/BREAKS_SNAPS/CRACK_Bright_Crisp_03_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

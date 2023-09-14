@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{d0b92969-bd73-4617-ae75-7815cf64fb2d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/CARTOON/LOTUS_FLUTE_Whistle_Down_Wobble_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{22d67223-d00b-4d9f-994b-8fca1b8056b1}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/SPRAY_CAN/SPRAY_CAN_Spray_Long_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{cfba2a01-fb92-4535-82f4-a2afeacf37fb}">
+		<property name="assetPath">
+			<value>Universal Sound FX/TIME_WARPS/TIME_WARP_Stop_07_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

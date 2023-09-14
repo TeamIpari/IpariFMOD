@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{17bcd608-3da5-46c1-b4f6-67272dca37b2}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MACHINES/Household_Appliances/APPLIANCE_Fridge_Hum_01_Exterior_Left_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

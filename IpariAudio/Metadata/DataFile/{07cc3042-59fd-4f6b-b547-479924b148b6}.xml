@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{07cc3042-59fd-4f6b-b547-479924b148b6}">
+		<property name="assetPath">
+			<value>Universal Sound FX/MACHINES/Industrial/PRESSURE_WASHER_Spray_01_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

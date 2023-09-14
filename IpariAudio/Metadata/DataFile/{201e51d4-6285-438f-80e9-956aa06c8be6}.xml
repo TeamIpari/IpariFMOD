@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{201e51d4-6285-438f-80e9-956aa06c8be6}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/PEN_PAPER/WASTE_BIN_Empty_02_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

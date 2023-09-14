@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{3f95785d-6c69-4128-b76f-26f40621fb83}">
+		<property name="assetPath">
+			<value>Universal Sound FX/EXPLOSIONS/Long/EXPLOSION_Long_Dirty_Distorted_with_Debris_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

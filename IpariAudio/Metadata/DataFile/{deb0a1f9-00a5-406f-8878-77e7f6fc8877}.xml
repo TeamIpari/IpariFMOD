@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{deb0a1f9-00a5-406f-8878-77e7f6fc8877}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FRICTION/Flags/FRICTION_Concrete_Flag_Hard_Floor_Gravel_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

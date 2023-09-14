@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{a46bea6c-03dd-4d0e-95d9-76496a66752d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/CHURCH_BELL/CHURCH_BELL_02_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{332c9669-f68a-4117-a4fa-932978ecfa11}">
+		<property name="assetPath">
+			<value>Universal Sound FX/CREAKS/CREAK_Wood_Tree_Creak_06_Long_Subtle_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

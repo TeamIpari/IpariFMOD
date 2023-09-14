@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{0317695f-954d-4ba3-82f4-f69ff5b47bb4}">
+		<property name="assetPath">
+			<value>Universal Sound FX/LIGHTS/LIGHT_Button_Fluorescent_02_Off_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

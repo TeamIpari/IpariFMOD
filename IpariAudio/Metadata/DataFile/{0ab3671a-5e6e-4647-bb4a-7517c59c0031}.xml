@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{0ab3671a-5e6e-4647-bb4a-7517c59c0031}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FABRIC_CLOTHING/FABRIC_Tear_05_Quick_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

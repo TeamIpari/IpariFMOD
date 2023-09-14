@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{527434dc-6c00-4a28-8b5e-25549858a550}">
+		<property name="assetPath">
+			<value>Universal Sound FX/#Game Genre References/First Person Shooter (FPS).txt</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

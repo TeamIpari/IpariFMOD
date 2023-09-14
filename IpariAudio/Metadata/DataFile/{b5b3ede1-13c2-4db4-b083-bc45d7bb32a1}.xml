@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{b5b3ede1-13c2-4db4-b083-bc45d7bb32a1}">
+		<property name="assetPath">
+			<value>Universal Sound FX/ALARMS/Digital/ALARM_Fast_High_Pitch_Reverse_Echo_loop_stereo.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

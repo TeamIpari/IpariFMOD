@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{804b1ac8-c843-45dd-b9d7-ed5dc527e09d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/TOOLS/Spade/SPADE_Scrape_Asphalt_Vertical_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{800878e1-b6d9-46ed-af2e-1a83e53510de}">
+		<property name="assetPath">
+			<value>Universal Sound FX/WHOOSHES/SciFi/WHOOSH_SciFi_ZoomBy_04_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

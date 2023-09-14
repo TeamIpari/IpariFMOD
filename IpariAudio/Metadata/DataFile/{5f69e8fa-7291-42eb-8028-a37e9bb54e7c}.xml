@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{5f69e8fa-7291-42eb-8028-a37e9bb54e7c}">
+		<property name="assetPath">
+			<value>Universal Sound FX/DIGITAL/Computers_Digital/COMPUTER_Beep_Small_Delay_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

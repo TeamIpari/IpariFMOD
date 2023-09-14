@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{4d5c79f2-1e48-41b4-a879-45f412076793}">
+		<property name="assetPath">
+			<value>Universal Sound FX/TOOLS/Chainsaws/TOOL_Chainsaw_1_Idle_01_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

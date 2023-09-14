@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{c737bfc5-308e-41d5-8ad2-a67a11620c1f}">
+		<property name="assetPath">
+			<value>Universal Sound FX/8BIT/Coin_Collect/8BIT_RETRO_Coin_Collect_Two_Note_Deep_Twinkle_High_Frequence_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

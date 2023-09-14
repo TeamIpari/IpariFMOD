@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{c4ae7b25-efd5-4441-a120-b4919195c92d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FRICTION/Bricks/FRICTION_Brick_Slide_01_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

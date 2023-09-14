@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{ee748e0f-e79c-40c4-8ce7-f3bd05c1f91f}">
+		<property name="assetPath">
+			<value>Universal Sound FX/HUMAN/Footsteps/Boots_Glass_Shattered_Walk/FOOTSTEP_Boots_Glass_Shattered_Walk_Slow_RR1_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

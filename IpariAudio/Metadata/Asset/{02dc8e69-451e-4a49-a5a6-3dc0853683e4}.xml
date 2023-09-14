@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{02dc8e69-451e-4a49-a5a6-3dc0853683e4}">
+		<property name="assetPath">
+			<value>Universal Sound FX/FOLEY/SPRAY_BOTTLE/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

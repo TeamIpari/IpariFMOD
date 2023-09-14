@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{c532fd4e-a232-4f05-a9e4-2fdd35d9a49d}">
+		<property name="assetPath">
+			<value>Universal Sound FX/VOICES/Laugh/VOICE_Male_Hahaha_Psycho_06_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

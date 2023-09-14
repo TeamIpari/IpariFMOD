@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{20d9fae4-5c5d-40e1-b7dc-158b1e9c8f0c}">
+		<property name="assetPath">
+			<value>Universal Sound FX/THRUSTERS_FLAMES/THRUSTER_Deep_Powerful_Burning_Air_Big_Flames_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>

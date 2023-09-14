@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{22ef1962-7983-49f9-a985-ced6d81aa407}">
+		<property name="assetPath">
+			<value>Universal Sound FX/RETRO_LOFI/RETRO_Loop_Pulse_02_loop_mono.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>
