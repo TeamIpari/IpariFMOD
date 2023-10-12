@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f00612ea-434e-4040-9b25-af4ffc8aff57}">
+		<property name="assetPath">
+			<value>Get_MiniCocoshi.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.6383673469387756</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>
