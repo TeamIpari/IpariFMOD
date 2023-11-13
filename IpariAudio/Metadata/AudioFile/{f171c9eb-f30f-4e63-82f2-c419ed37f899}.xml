@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{2510a851-da44-42dd-9f35-0e780fb781ae}">
+	<object class="AudioFile" id="{f171c9eb-f30f-4e63-82f2-c419ed37f899}">
 		<property name="assetPath">
-			<value>Player_SandWalk1.wav</value>
+			<value>Player_GrassWalk2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -11,7 +11,7 @@
 			<value>1</value>
 		</property>
 		<property name="length">
-			<value>0.22056689342403629</value>
+			<value>0.48458049886621313</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
