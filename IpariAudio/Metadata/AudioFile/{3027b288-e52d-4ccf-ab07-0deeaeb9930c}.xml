@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3027b288-e52d-4ccf-ab07-0deeaeb9930c}">
+		<property name="assetPath">
+			<value>ThrowFlower_Drop1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.74707482993197283</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1efee77c-6a9e-489e-bd69-3b4140aed501}</destination>
+		</relationship>
+	</object>
+</objects>
