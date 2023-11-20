@@ -44,9 +44,9 @@
 		<relationship name="modules">
 			<destination>{c14cf5b6-e45c-485e-8d82-e3402093ca7f}</destination>
 			<destination>{f4d077c5-b346-4bde-ad92-f38d200554c4}</destination>
-			<destination>{b5b3937c-f5f9-46ad-9e93-64f1613401e3}</destination>
 			<destination>{94b46523-43f1-49b6-94c2-196519cb61ff}</destination>
 			<destination>{241a8544-5e01-4704-a706-d14f625c8c47}</destination>
+			<destination>{4835a45e-1962-4e76-a129-9b78e88cfb03}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{026e9042-8cbd-43c8-8ca9-f8c6e799ed78}</destination>
@@ -74,9 +74,9 @@
 		<relationship name="modules">
 			<destination>{c14cf5b6-e45c-485e-8d82-e3402093ca7f}</destination>
 			<destination>{f4d077c5-b346-4bde-ad92-f38d200554c4}</destination>
-			<destination>{b5b3937c-f5f9-46ad-9e93-64f1613401e3}</destination>
 			<destination>{94b46523-43f1-49b6-94c2-196519cb61ff}</destination>
 			<destination>{241a8544-5e01-4704-a706-d14f625c8c47}</destination>
+			<destination>{4835a45e-1962-4e76-a129-9b78e88cfb03}</destination>
 		</relationship>
 		<relationship name="preset">
 			<destination>{13a10444-e932-4daf-b9ad-47f76c292eb2}</destination>
@@ -109,11 +109,6 @@
 			<destination>{150cab0b-7075-4be8-b6e2-c4faa12d45cb}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{b5b3937c-f5f9-46ad-9e93-64f1613401e3}">
-		<relationship name="audioFile">
-			<destination>{6afa005c-13f7-4f1c-bb66-3e312b14b926}</destination>
-		</relationship>
-	</object>
 	<object class="SingleSound" id="{94b46523-43f1-49b6-94c2-196519cb61ff}">
 		<property name="start">
 			<value>4</value>
@@ -126,6 +121,11 @@
 		<property name="start">
 			<value>3</value>
 		</property>
+		<relationship name="audioFile">
+			<destination>{60ee342b-488f-4a93-b8c1-c453acf3eb35}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{4835a45e-1962-4e76-a129-9b78e88cfb03}">
 		<relationship name="audioFile">
 			<destination>{60ee342b-488f-4a93-b8c1-c453acf3eb35}</destination>
 		</relationship>
